@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Fajlovi za igru
+highscore.txt
+screenshot.png
+*.log
+
+# IDE
+.idea/
+*.swp
+*.swo
